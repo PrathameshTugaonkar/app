@@ -17,8 +17,7 @@ const Hero = () => {
                 DPR Infra Projects Private Limited
                 </h1>
                 <p className="mb-12 text-base !leading-relaxed text-body-color dark:text-body-color-dark sm:text-lg md:text-xl">
-                DPR Infra stands as India's pioneering technological-infrastructure solutions provider, revolutionizing the construction ecosystem through a holistic, digitally-augmented approach. Our innovative paradigm transforms traditional construction methodologies by integrating cutting-edge technological infrastructure with comprehensive project management strategies.
-                We specialize in delivering end-to-end architectural and engineering solutions, offering a seamless design-to-implementation continuum that redefines industry standards.                </p>
+                DPR Infra stands as India's pioneering technological-infrastructure solutions provider, revolutionizing the construction ecosystem through a holistic, digitally-augmented approach. Our innovative paradigm transforms traditional construction methodologies by integrating cutting-edge technological infrastructure with comprehensive project management strategies. </p>
                 <div className="flex flex-col items-center justify-center space-y-4 sm:flex-row sm:space-x-4 sm:space-y-0">
                   <Link
                     href={`https://wa.me/+919849009744?text=Hi, I want to get in touch with you!`}
